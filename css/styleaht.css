@@ -1,0 +1,329 @@
+body {
+	font-family: Roboto;
+
+}
+
+
+/*#content
+{
+	border: 1px solid red;
+}*/
+.profilepic {
+	position: relative;
+	top: -50px;
+	left: 0;
+}
+
+nav h1 {
+	width: 100%;
+	color: white;
+
+}
+
+.navbar-default .navbar-nav>li>a {
+	font-weight: bold;
+	color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+
+	color: #e8663c;
+
+}
+
+.navbar {
+	min-height: 94px;
+	margin-top: 1rem;
+
+}
+
+.navbar-default {
+	background: transparent;
+
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+	font-size: 40px;
+
+}
+
+header {
+	height: 40vh;
+	background: url('../images/asset/bence-boros-178730-unsplash.jpg') no-repeat center center;
+	background-size: cover;
+}
+
+header a {
+	color: white;
+}
+
+#profile {
+
+	/*position: absolute;
+  	z-index: 1;
+  	top: 0;
+  	left: 0;*/
+	background: #ad5389;
+	/* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #3c1053, #ad5389);
+	/* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #3c1053, #ad5389);
+	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	text-align: center;
+	/*overflow-x: hidden;*/
+}
+
+#profile h5 {
+	color: white;
+	/*vertical-align: top;*/
+	/*float: center;*/
+}
+
+#profile h4 {
+	color: white;
+	font-family: MS Serif;
+	font-style: italic;
+}
+
+.pimg {
+	border: 1px solid grey;
+	border-radius: 50%;
+}
+
+.card {
+	text-align: center;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+	border: 1px solid #b3b3b3;
+	border-radius: 9%;
+	padding-left: 0;
+	padding-right: 0;
+	box-shadow: 5px 5px 30px 7px rgba(0, 0, 0, 0.25), -5px -5px 30px 7px rgba(0, 0, 0, 0.22);
+	cursor: pointer;
+	transition: 0.4s;
+}
+
+.card-body i {
+	font-size: 2rem;
+	color: grey;
+}
+
+.card:hover {
+	transform: scale(0.9, 0.9);
+	box-shadow: 5px 5px 30px 15px rgba(0, 0, 0, 0.25),
+		-5px -5px 30px 15px rgba(0, 0, 0, 0.22);
+}
+
+.copyright {
+	border-top: 1px solid #5f5f5f;
+	font-size: 14px;
+	color: #b3b3b3;
+	margin-top: 25px;
+	padding-top: 10px;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.bcard {
+	cursor: pointer;
+	/*width: 340px;*/
+	height: 300px;
+	text-align: center;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+	/*border:1px solid #b3b3b3;*/
+	/*border-radius: 9%;
+	padding-left: 0;
+	padding-right: 0;*/
+	/*box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25);*/
+	cursor: pointer;
+	transition: 0.4s;
+}
+
+.front,
+.back {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	text-align: center;
+	backface-visibility: hidden;
+	position: absolute;
+	transition: transform .6s linear;
+}
+
+.front img {
+	height: 100%;
+}
+
+.front h1 {
+	position: absolute;
+	bottom: 10%;
+	/*left: 35%;*/
+
+	border: 1px solid white;
+	color: #ad5389;
+}
+
+.front {
+	transform: perspective(600px) rotateY(0deg);
+}
+
+.back {
+	background: #f1f1f1;
+	transform: perspective(600px) rotateY(180deg);
+}
+
+.back-content {
+	color: #2c3e50;
+	text-align: center;
+	width: 100%;
+}
+
+.sm {
+	margin: 20px 0;
+}
+
+.sm a {
+	display: inline-flex;
+	width: 40px;
+	height: 40px;
+	justify-content: center;
+	align-items: center;
+	color: #2c3e50;
+	font-size: 18px;
+	transition: 0.4s;
+	border-radius: 50%
+}
+
+.sm a:hover {
+	background: #2c3e50;
+	color: white;
+}
+
+.bcard:hover>.front {
+	transform: perspective(600px) rotateY(-180deg);
+}
+
+.bcard:hover>.back {
+	transform: perspective(600px) rotateY(0deg);
+}
+
+.acard {
+
+	/*width: 340px;*/
+	/*height: 300px;*/
+	/*text-align: center;*/
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+	border: 1px solid #b3b3b3;
+	/*border-radius: 9%;*/
+	padding-left: 1rem;
+	padding-right: 1rem;
+	padding-bottom: 1rem;
+	padding-top: 1rem;
+	box-shadow: 5px 5px 30px 7px rgba(0, 0, 0, 0.10);
+
+	transition: 0.4s;
+}
+
+.card-user {
+	text-align: center;
+}
+
+.image {
+	width: 100%;
+	height: 150px;
+	border: 1px solid red;
+	overflow: hidden;
+}
+
+.author {
+	position: relative;
+	top: -50px;
+
+}
+
+//Notifications
+//Friend Request
+/*.notification
+		{
+			width: 326px;
+  			height: auto;
+  			background:  rgba(255,255,255,0.5);
+  			border: 1px solid grey;
+  			border-radius: 360px;
+  			text-align: left;
+  			overflow: hidden;
+		}*/
+.friend_request {
+	border-bottom: 1px solid grey;
+}
+
+.friend_request img,
+.friend_request .matter {
+	display: inline-block;
+}
+
+#profile i {
+	font-size: 2rem;
+	color: white;
+}
+
+#profile i:hover {
+	color: #e8663c;
+	background: transparent;
+}
+
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:focus,
+.nav-tabs>li.active>a:hover {
+	background-color: transparent;
+	color: #e8663c;
+	border: none;
+}
+
+.nav>li>a:hover,
+.nav>li>a:focus {
+	background-color: transparent;
+	color: #e8663c;
+	border: none;
+}
+
+
+#show_friends img,
+#show_friends p {
+	display: inline-block;
+}
+
+#show_friends li {
+	list-style: none;
+	text-align: left;
+}
+
+.card .card-body .card-link i {
+	font-size: 2.5rem;
+}
+
+.card .card-body .card-link i:hover {
+	color: #e8663c;
+}
+
+.close_me {
+	display: none;
+}
+
+.para {
+	color: white;
+	font-size: 1rem;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	list-style: none;
+}

@@ -1,0 +1,1046 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stat",
+				"status"
+			],
+			[
+				"read",
+				"readURL"
+			],
+			[
+				"for",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"form",
+				"form-control \tBootstrap 3 Class"
+			],
+			[
+				"image",
+				"image_file"
+			],
+			[
+				"member_",
+				"member_id"
+			],
+			[
+				"err",
+				"err_msg"
+			],
+			[
+				"image_",
+				"image_resize"
+			],
+			[
+				"arri",
+				"arrival_date"
+			],
+			[
+				"phone",
+				"phone1"
+			],
+			[
+				"phon",
+				"phone_no"
+			],
+			[
+				"Add",
+				"AddNew"
+			],
+			[
+				"re",
+				"registerd_date"
+			],
+			[
+				"pho",
+				"phone_no"
+			],
+			[
+				"email",
+				"email_id"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"bl",
+				"bldno"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"emai",
+				"email_id"
+			],
+			[
+				"ac",
+				"ac_type"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"incl",
+				"include_once"
+			],
+			[
+				"arr",
+				"arrive_date"
+			],
+			[
+				"ph",
+				"phone_no"
+			],
+			[
+				"flat",
+				"flatno"
+			],
+			[
+				"he",
+				"head\tTag"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"tra",
+				"translateX()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"ve",
+				"vertical-rl"
+			],
+			[
+				"conta",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"cat",
+				"cat_name"
+			],
+			[
+				"md5",
+				"md5_pass"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"col-md",
+				"col-md-12 \tBootstrap 3 Class"
+			],
+			[
+				"col-xs",
+				"col-xs-12 \tBootstrap 3 Class"
+			],
+			[
+				"hidden",
+				"hidden-xs \tBootstrap 3 Class"
+			],
+			[
+				"col-md-off",
+				"col-md-offset-1 \tBootstrap 3 Class"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"col-offset-1",
+				"col-md-offset-1 \tBootstrap 3 Class"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"nav",
+				"navbar \tBootstrap 3 Class"
+			],
+			[
+				"na",
+				"navbar-brand \tBootstrap 3 Class"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"caro",
+				"carousel-inner \tBootstrap 3 Class"
+			],
+			[
+				"container",
+				"container \tBootstrap 3 Class"
+			],
+			[
+				"drop",
+				"dropdown-toggle \tBootstrap 3 Class"
+			],
+			[
+				"dropdown",
+				"dropdown-menu \tBootstrap 3 Class"
+			],
+			[
+				"connect",
+				"connect_db_php"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"POST",
+				"_POST"
+			],
+			[
+				"div",
+				"divbyseven"
+			],
+			[
+				"e",
+				"employee"
+			],
+			[
+				"Print",
+				"print_r"
+			],
+			[
+				"array",
+				"array_emp"
+			],
+			[
+				"file",
+				"filename_array"
+			],
+			[
+				"fil",
+				"filename_array"
+			],
+			[
+				"object",
+				"object-fit"
+			],
+			[
+				"img",
+				"img-responsive \tBootstrap 3 Class"
+			],
+			[
+				"border-",
+				"border-right"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"c",
+				"carousel"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"modal",
+				"modal-content"
+			],
+			[
+				"modal-",
+				"modal-dialog"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"onmouse",
+				"onmouseup\tAttr"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"outline",
+				"outline"
+			],
+			[
+				"background-cl",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"backgrond",
+				"background-color"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"onC",
+				"onclick\tAttr"
+			],
+			[
+				"getElementby",
+				"getElementsByClassName"
+			],
+			[
+				"dr",
+				"dropdown-content"
+			],
+			[
+				"html",
+				"innerHTML"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"is",
+				"isPrime"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"no",
+				"no1"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bo",
+				"content-box"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<?php\ninclude_once 'header.php';\ninclude_once 'sidebar.php';\ninclude_once 'nav.php';\ninclude_once '../includes/functions.php';\n\n// include_once '../includes/page.php';\n$msg = \"\";\nif (isset($_REQUEST['delmsg']))\n{\n\t$delmsg = $_REQUEST['delmsg'];\n\tif ($delmsg == \"succ\")\n\t{\n\t\t$msg = \"Member deleted....\";\n\t}\n}\n?>\n<script type=\"text/javascript\">\nfunction delete_member(memberid,ext)\n{\n    // alert(\"hi\");\n    if(memberid!=\"\")\n    {\n        var delconf;\n        delconf=confirm(\"Are you sure to delete the member?\");\n        // alert(delconf);\n        if(delconf)\n        {\n            window.location.href=\"delete_member.php?delmemid=\"+memberid+\"&extension=\"+ext;\n        }        \n    }\n}\n</script>\n<div class=\"content\">\n    <div class=\"container-fluid\">\n        <div class=\"row\">\n            <div class=\"col-md-12\">\n                <div class=\"col-md-12\">\n                    <div class=\"card\">\n                        <div class=\"header\">\n                            <h4 class=\"title\">Manage Members</h4>\n                            <p style=\"color: red;\"> <?php echo $msg; ?></p>\n                            <a href=\"add_member.php\" class=\"btn btn-lg pull-right\" name=\"add_new\">Add New Member</a>\n                        </div>\n                        <div class=\"content table-responsive table-full-width\">\n                            <table class=\"table table-hover table-striped\">\n                            <thead>\n                                <th>Flat_no</th>\n                                <th>Name</th>\n                                <th>Image</th>\n                                <th>Phone no</th>\n                                <th>Rented/Owner</th>\n                                <th>Action</th>\n                            </thead>\n<tbody>\n<?php\n// *********** Fetch from database***********\n$sql_sel_member = \"select * from tbl_members order by member_id desc\";\n$res_sel_member = mysqli_query($dblink, $sql_sel_member);\nif (mysqli_num_rows($res_sel_member) > 0)\n{\n\twhile ($member_data = mysqli_fetch_assoc($res_sel_member))\n\t{\n\t\tif ($member_data['profile_pic'] != \"nopic.jpg\")\n\t\t{\n\t\t\t$image_filename = $member_data['profile_pic'];\n\t\t\t$extension = get_ext(\"$image_filename\");\n\t\t\t$thumbimage = \"../images/\" . \"mem_thumb_\" . $member_data['member_id'] . \".\" . $extension;\n\t\t}\n\t\telse\n\t\t{\n\t\t\t$thumbimage = \"../images/\" . \"nopic_thumb.jpg\";\n\t\t\t$extension = \".jpg\";\n\t\t}\n\t\t// for pagination\n\t\t$num_rec_per_page = 5;\n\t\t$total_records = mysqli_num_rows($res_sel_member);\n\t\tif (isset($_GET[\"page\"]))\n\t\t{\n\t\t\t$page = $_GET[\"page\"];\n\t\t}\n\t\telse\n\t\t{\n\t\t\t$page = 1;\n\t\t};\n\t\t$start_from = ($page - 1) * $num_rec_per_page;\n\t\t$link = \"manage_members.php\";\n?>\n<tr>\n    <td><?php echo $member_data['flatno']; ?></td>\n    <td><?php echo $member_data['fname'] . \" \" . $member_data['lname']; ?></td>\n    <td><img src=\"<?php echo $thumbimage; ?>\"></td>\n    <td><?php echo $member_data['phone1']; ?></td>\n    <td><?php echo $member_data['ac_type']; ?></td>\n    <td><a href=\"<?php echo 'update_member.php?member_id=' . $member_data['member_id']; ?>\">Modify</a>/<a href=\"#\" onclick='delete_member(<?php echo $member_data['member_id']; ?>,\"<?php\n    echo $extension; ?> \")'>Delete</a></td>\n</tr>\n<?php\n\t}\n}\n?>\n</tbody>\n                            </table>\n                        </div>\n                        <div class=\"pagination\">\n                            <ul class=\"pagination\">\n<?php echo pagination($num_rec_per_page, $start_from, $total_records, $link); ?>\n                            </ul> \n                        </div>\n                    </div>          \n                </div>                    \n            </div>       \n        </div>\n</div>\n<?php\ninclude_once 'footer.php';\n?>",
+			"file": "/C/Users/Naila/Desktop/test.php",
+			"file_size": 4438,
+			"file_write_time": 131970628141074870,
+			"settings":
+			{
+				"buffer_size": 3686,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/add_member.php",
+			"settings":
+			{
+				"buffer_size": 13324,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: Tag",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 484.0
+	},
+	"console":
+	{
+		"height": 192.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/AHT - Copy/includes/functions.php",
+		"/C/xampp/htdocs/AHT/includes/page.php",
+		"/C/xampp/htdocs/Demo/pagination.php",
+		"/C/xampp/htdocs/AHT - Copy/admin/Manage_members.php",
+		"/C/xampp/htdocs/AHT/includes/functions.php",
+		"/C/xampp/htdocs/AHT/admin/update_member.php",
+		"/C/xampp/htdocs/AHT/admin/delete_member.php",
+		"/C/xampp/htdocs/AHT/admin/add_member.php",
+		"/C/xampp/htdocs/AHT/includes/pagination.php",
+		"/C/xampp/htdocs/AHT/includes/config.php",
+		"/C/xampp/htdocs/AHT/admin/nav.php",
+		"/C/xampp/htdocs/mynews/admin/update_news.php",
+		"/C/xampp/htdocs/AHT/admin/assets/js/light-bootstrap-dashboard.js",
+		"/C/xampp/htdocs/AHT/admin/sidebar.php",
+		"/C/xampp/htdocs/AHT/admin/index.php",
+		"/C/xampp/htdocs/AHT/admin/Manage_members.php",
+		"/C/xampp/htdocs/mynews/includes/config.php",
+		"/C/xampp/htdocs/Demo/Image_validation/image_validation.php",
+		"/C/xampp/htdocs/mynews/admin/manage_news.php",
+		"/C/xampp/htdocs/mynews/admin/add_news.php",
+		"/C/xampp/htdocs/AHT/admin/footer.php",
+		"/C/xampp/htdocs/AHT/includes/image_resize.php",
+		"/C/xampp/htdocs/mynews/admin/delete_news.php",
+		"/C/xampp/htdocs/mynews/admin/manage_news_1.php",
+		"/C/xampp/htdocs/AHT/includes/connect_db.php",
+		"/C/xampp/htdocs/Icecreamshop/admin/dashboard.html",
+		"/C/xampp/htdocs/Icecreamshop/light-bootstrap-dashboard-master/light-bootstrap-dashboard-master/user.html",
+		"/C/xampp/htdocs/mynews/includes/functions.php",
+		"/C/xampp/htdocs/AHT/admin/content.php",
+		"/C/xampp/htdocs/Demo/Mystore/includes/pagination1.php",
+		"/C/xampp/htdocs/AHT/admin/header.php",
+		"/C/xampp/htdocs/Demo/Mystore/display_dropdown.php",
+		"/C/xampp/htdocs/Demo/PHP/functions.php",
+		"/C/xampp/htdocs/Demo/Mystore/includes/fetch_cat.php",
+		"/C/xampp/htdocs/Demo/include/function.php",
+		"/C/xampp/htdocs/AHT/admin.php",
+		"/C/xampp/htdocs/Icecreamshop/admin/sidebar.php",
+		"/C/xampp/htdocs/Icecreamshop/admin/header.php",
+		"/C/xampp/htdocs/Icecreamshop/includes/fetch_cat.php",
+		"/C/xampp/htdocs/Icecreamshop/includes/connect_db.php",
+		"/C/xampp/htdocs/Icecreamshop/admin/Manage_members.php",
+		"/C/xampp/htdocs/mynews/admin/header.php",
+		"/C/xampp/htdocs/Icecreamshop/light-bootstrap-dashboard-master/light-bootstrap-dashboard-master/table.html",
+		"/C/xampp/htdocs/Icecreamshop/New folder/content.php",
+		"/C/xampp/htdocs/mynews/admin/viewdetails.php",
+		"/C/xampp/htdocs/mynews/admin/news_details.php",
+		"/C/Users/Naila/Downloads/social_net_template_851 (1)/index.html",
+		"/C/xampp/htdocs/AHT/index.html",
+		"/C/xampp/htdocs/Icecreamshop/New folder/sidebar.php",
+		"/C/xampp/htdocs/Icecreamshop/New folder/nav.php",
+		"/C/xampp/htdocs/Icecreamshop/New folder/footer.php",
+		"/C/xampp/htdocs/Icecreamshop/New folder/index.php",
+		"/C/xampp/htdocs/Icecreamshop/New folder/header.php",
+		"/C/A_Web_designing/Sample_layouts/social networking/facebook modal _comment/modal_comment.html",
+		"/C/A_Web_designing/Jetro/jetro.html",
+		"/C/A_Web_designing/Sample_layouts/transparent login form/transparent login form/style.css",
+		"/C/xampp/htdocs/AHT/login_form.php",
+		"/C/A_Web_designing/Portfolio/index.html",
+		"/C/A_Web_designing/Batch 12-2/08. Bootstrap/JavaScript/Tab.html",
+		"/C/xampp/htdocs/AHT/css/style.css",
+		"/C/A_Web_designing/Sample_layouts/transparent login form/transparent login form/index.html",
+		"/C/A_Web_designing/Portfolio/slider4.html",
+		"/C/A_Web_designing/Batch 12-2/04. CSS3 Programs/Pro1_Animation.html",
+		"/C/A_Web_designing/Portfolio/slider3.css",
+		"/C/A_Web_designing/Portfolio/slider3.html",
+		"/C/A_Web_designing/Portfolio/css/style.css",
+		"/C/A_Web_designing/Portfolio/slider.html",
+		"/C/A_Web_designing/Portfolio/slider5.html",
+		"/C/A_Web_designing/Sample_layouts/information cards/information_card.html",
+		"/C/A_Web_designing/Sample_layouts/3dslider/new.js",
+		"/C/A_Web_designing/Sample_layouts/3dslider/new.css",
+		"/C/A_Web_designing/Sample_layouts/3dslider/new.html",
+		"/C/xampp/htdocs/Demo/login/sign_up.php",
+		"/C/xampp/htdocs/Demo/login/css/style.css",
+		"/C/xampp/htdocs/Demo/login/Login_form.php",
+		"/C/xampp/htdocs/Demo/Login_Modal/login_form_boots.html",
+		"/C/xampp/htdocs/Demo/Mystore/sign_up.php",
+		"/C/xampp/htdocs/Demo/Login_Modal/sign_up.php",
+		"/C/xampp/htdocs/Demo/login/admin.php",
+		"/C/A_Web_designing/fitracker_portfolio/css/style.css",
+		"/C/xampp/htdocs/SocialNetworkingProject/include/smarty/templates_c/%%6E^6E3^6E3A4468%%user_friends.tpl.php",
+		"/C/xampp/htdocs/Demo/PHP/mynews-20190304T155925Z-001/mynews/includes/image_resize.php",
+		"/C/xampp/htdocs/md5.php",
+		"/C/xampp/htdocs/SocialNetworkingProject/index.php",
+		"/C/xampp/htdocs/SocialNetworkingProject/home.php",
+		"/C/xampp/htdocs/SocialNetworkingProject/header.php",
+		"/C/xampp/htdocs/SocialNetworkingProject/include/class_database.php",
+		"/C/xampp/htdocs/Demo/PHP/mynews-20190304T155925Z-001/mynews/includes/database.php",
+		"/C/xampp/htdocs/Demo/PHP/mynews-20190304T155925Z-001/mynews/includes/functions.php",
+		"/C/A_Web_designing/elegantica/index.html",
+		"/C/A_Web_designing/elegantica/elegantica.css",
+		"/C/A_Web_designing/TobeSent/-naila-seoexpert/Naila-SEO-Experts/css/mystyle.css",
+		"/C/A_Web_designing/TobeSent/-naila-seoexpert/Naila-SEO-Experts/index.html",
+		"/C/xampp/htdocs/Demo/PHP/pagination1.php",
+		"/C/A_Web_designing/elegantica/flying_bird.css",
+		"/C/A_Web_designing/elegantica/flying_bird.html",
+		"/C/A_Web_designing/elegantica/animate.html",
+		"/C/A_Web_designing/elegantica/animate.css",
+		"/C/A_Web_designing/Batch 12-2/03. HTML5 Programs/15-Nav.html",
+		"/C/xampp/htdocs/Demo/Login_Modal/login_form.php",
+		"/C/xampp/htdocs/Demo/Mystore/includes/connect_db.php",
+		"/C/xampp/htdocs/Demo/Mystore/includes/config.php",
+		"/C/xampp/htdocs/Demo/Login_Modal/logout.php",
+		"/C/xampp/htdocs/Demo/PHP/loginassignmentwithdatabase/login_db/login_db/login.php",
+		"/C/xampp/htdocs/Demo/Login_Modal/css/bootstrap.css",
+		"/C/xampp/htdocs/Demo/Login_Modal/includes/connect_db.php",
+		"/C/xampp/htdocs/Demo/connect_db_php/include/config.php",
+		"/C/xampp/htdocs/Demo/Login_Modal/includes/config.php",
+		"/C/xampp/htdocs/Demo/PHP/loginassignmentwithdatabase/login_db/login_db/includes/db_connect.php",
+		"/C/xampp/htdocs/Demo/PHP/loginassignmentwithdatabase/login_db/login_db/logout.php",
+		"/C/xampp/htdocs/Demo/PHP/loginassignmentwithdatabase/login_db/login_db/admin_home.php",
+		"/C/xampp/htdocs/Demo/Login_Modal/admin.php",
+		"/C/xampp/htdocs/Demo/Login_Modal/display_dropdown.php",
+		"/C/xampp/htdocs/Demo/addstring.php",
+		"/C/xampp/htdocs/Demo/test.php",
+		"/C/xampp/htdocs/myajax/index.php",
+		"/C/xampp/htdocs/SocialNetworkingProject/include/database_config.php",
+		"/C/xampp/htdocs/SocialNetworkingProject/chat_frame.php",
+		"/C/xampp/htdocs/SocialNetworkingProject/lostpass_reset.php",
+		"/C/xampp/htdocs/SocialNetworkingProject/header_chat.php",
+		"/C/xampp/htdocs/SocialNetworkingProject/help_contact.php",
+		"/C/xampp/htdocs/SocialNetworkingProject/include/index.php",
+		"/C/A_Web_designing/traveler/css/traveler1.css",
+		"/C/A_Web_designing/traveler/css/bootstrap-3.3.7/css/bootstrap.css",
+		"/C/A_Web_designing/traveler/css/traveler.css",
+		"/C/A_Web_designing/traveler/traveler.html",
+		"/C/A_Web_designing/TobeSent/Naila--3psd-html&css-Assignment/Naila-FDN/fdn.html",
+		"/C/A_Web_designing/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap.css"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"total_records",
+			"ac_type",
+			"header",
+			"input",
+			"$err_photo_msg",
+			"profile_pic",
+			"delnewsid",
+			"extension",
+			"image",
+			"profile_pic",
+			"$extension",
+			"delmsg",
+			"delete",
+			"email",
+			"$news_news_id",
+			"ac-type",
+			"<a",
+			"add new member",
+			"<a",
+			"chartlist.min",
+			"form",
+			"Add new member",
+			"$actype",
+			"$ac_type",
+			"input",
+			"file",
+			"form",
+			"carao",
+			"fluid",
+			".modal",
+			"modal",
+			"modal fade in",
+			"modal",
+			"input",
+			"style",
+			"$msg",
+			"button",
+			"password",
+			"form",
+			"nav",
+			"navbar",
+			"aw",
+			"awards",
+			"aw",
+			"awards",
+			"offset",
+			"full",
+			"full_col",
+			"navbar-default",
+			"row",
+			".nav",
+			"nav",
+			".navbar-default",
+			".navbar-default:hover",
+			"navbar-nav",
+			"section2",
+			"header",
+			"nav",
+			"navbar",
+			"nav",
+			"navbar-default",
+			"@media",
+			"banner",
+			"img-",
+			"img-fixed",
+			"map_section",
+			"shadow",
+			"maphadow",
+			"map",
+			"footer",
+			"about",
+			"figure",
+			"width",
+			"slogan",
+			"img",
+			"collapse",
+			" mr-auto ",
+			"section1",
+			"slogan",
+			"container-fluid",
+			"wrapper",
+			"container",
+			"col-md-12",
+			"width",
+			"logo_panel",
+			"banner",
+			"pad_section",
+			".nav",
+			"mysql",
+			"include",
+			"input-group-addon",
+			"script",
+			"dexter",
+			"strangedexter",
+			"sadie",
+			"checkbox",
+			"submit",
+			"icn",
+			" <img",
+			"<img",
+			"navbar-brand",
+			"navbar-header",
+			"col-md-4",
+			"button ",
+			"n1",
+			"no2",
+			"no1",
+			"workman",
+			"btn",
+			".serv",
+			"divider",
+			"service",
+			"divider",
+			"portfolio",
+			"nav",
+			"load",
+			"background",
+			"social",
+			"grid",
+			"work_with_us",
+			"square_icon",
+			"squareicon",
+			"line_slide",
+			"villa",
+			"about_us",
+			"on_banner",
+			"#villa",
+			"about_us"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$no2",
+			"$no1",
+			" #row2",
+			"img_tiles",
+			"class=\"read\"",
+			"class=\"r",
+			"font-size"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Naila/Desktop/test.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2553,
+								2553
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1539.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "admin/add_member.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4125,
+								4125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2913.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "login_form.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 99.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
